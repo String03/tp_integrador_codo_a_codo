@@ -1,0 +1,11 @@
+  .box1 {
+    display: flex;
+    color: blue;
+    background-color: yellow;
+  }
+
+ .box2 {
+    display: flex;
+    color: blue;
+    background-color: grey;
+  } 
