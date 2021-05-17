@@ -1,7 +1,8 @@
   .box1 {
     display: flex;
     color: blue;
-    background-color: yellow;
+    background-color: transparent;
+    background-image: url("https: //i.pinimg.com/originals/e9/42/ea/e942eac5522c556ae98c890b0ebf9182.png");
   }
 
  .box2 {
@@ -9,3 +10,22 @@
     color: blue;
     background-color: grey;
   } 
+
+  .candado{
+    width: 100px;
+    height: 100px;
+  }
+
+  .dinero{
+    width: 100px;
+    height: 100px;
+  }
+
+  .reloj{
+    width: 100px;
+    height: 100px;
+  }
+
+  .sub2{
+    align-content: center;
+  }
