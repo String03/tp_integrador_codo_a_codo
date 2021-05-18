@@ -26,6 +26,10 @@
     height: 100px;
   }
 
-  .sub2{
+  .sub1{
+    align-content: center;
+  }
+
+  .sub2 {
     align-content: center;
   }
