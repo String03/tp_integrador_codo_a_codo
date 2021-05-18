@@ -49,4 +49,21 @@
     height: 100px;
   }
 
-  
+  .boton1{
+    align-content: center;
+    background-color: orange;
+    color: white;
+    float: none;
+  }
+
+  .boton2 {
+    align-content: center;
+    background-color: orange;
+    color: white;
+  }
+
+  .boton3 {
+    align-content: center;
+    background-color: orange;
+    color: white;
+  }
