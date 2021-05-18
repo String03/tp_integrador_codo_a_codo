@@ -1,14 +1,24 @@
   .box1 {
     display: flex;
-    color: blue;
     background-color: transparent;
-    background-image: url("https: //i.pinimg.com/originals/e9/42/ea/e942eac5522c556ae98c890b0ebf9182.png");
+    background-image: url("depto_lujo.jpg");
+    background-size: cover;
+    color: whitesmoke;
+  }
+
+  .box4{
+    display: flex;
+    background-color: transparent;
+    background-image: url("depto_interior.jpg");
+    color: whitesmoke;
+    background-size: cover;
+
   }
 
  .box2 {
     display: flex;
-    color: blue;
-    background-color: grey;
+    color: black;
+    background-color:transparent;
   } 
 
   .candado{
